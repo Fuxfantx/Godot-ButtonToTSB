@@ -18,7 +18,7 @@ func _enter_tree():
 
 This script gives you an easy way to Re-Enable a Theme Button in this situation. Just import this into your project, and *simply* Add `ButtonToTSB` as a Button's Child Node. Then your Theme Button should be at work on <mark>Mobile</mark> Touchscreens.
 
-<mark>Notice: Only Suitable for Size-Fixed Theme Buttons.</mark>
+<mark>Notice: Only Suitable for Godot 4.x Branch!</mark>
 
 
 
